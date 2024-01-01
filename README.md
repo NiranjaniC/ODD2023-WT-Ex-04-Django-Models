@@ -1,7 +1,7 @@
 # Ex-04-Django-Models
 
 Name:Niranjani.C
-Registration Number:23009789
+Registration Number:212223220069
 AIM:
 To create django model
 
