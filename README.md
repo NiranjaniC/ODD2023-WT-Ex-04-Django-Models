@@ -27,5 +27,8 @@ user_profile template page you can see the profile page of the user
 OUTPUT:
 ![Screenshot 2023-12-01 120508](https://github.com/NiranjaniC/ODD2023-WT-Ex-04-Django-Models/assets/145742800/9e814049-ffb3-4c8c-b136-a42449982bc2)
 
+## Result:
+This program executed successfully.
+
 
 
