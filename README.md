@@ -1,7 +1,7 @@
 # Ex-04-Django-Models
-Ex-04-Django-Models
-NAME:Niranjani.C
-REFERENCE NUMBER:23009789
+
+Name:Niranjani.C
+Registration Number:23009789
 AIM:
 To create django model
 
